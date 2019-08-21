@@ -10,6 +10,7 @@ for e in comandos:
 
 posicao = len(lista_F) - len(lista_T)
 
-print(posicao)
+print("A posição do robô é:", posicao)
+
 
 
