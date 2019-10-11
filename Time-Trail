@@ -10,7 +10,7 @@ for i in range(M):
     print(cabo_entre_ilhas)
 
 #Criadas duas listas uma contendo todos os pings e outra a com o cabo entre duas ilhas, o objetivo agora é buscar na lista "ping" o maior valor, e relacionar
-#com a lista de dos cabos, os indices serão os mesmo, guardar esses dois valores e fazer a buca do menor caminho entre as ilhas pra depois fazer a subtração do maior
+#com a lista dos cabos, os indices serão os mesmo, guardar esses dois valores e fazer a buca do menor caminho entre as ilhas pra depois fazer a subtração do maior
 #ping com o menor ping.
 
 for i in ping:
